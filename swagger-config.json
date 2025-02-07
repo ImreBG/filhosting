@@ -1,0 +1,16 @@
+{
+  "urls": [
+    {
+      "name": "Petstore API",
+      "url": "https://petstore.swagger.io/v2/swagger.yaml"
+    },
+    {
+      "name": "Your Test API",
+      "url": "https://raw.githubusercontent.com/ImreBG/filhosting/refs/heads/main/test.yaml"
+    },
+    {
+      "name": "Local Example",
+      "url": "./api-spec.yaml"
+    }
+  ]
+} 
