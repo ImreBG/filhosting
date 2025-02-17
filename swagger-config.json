@@ -1,16 +1,16 @@
 {
   "urls": [
     {
-      "name": "Petstore API",
-      "url": "https://petstore.swagger.io/v2/swagger.yaml"
-    },
-    {
       "name": "WiFi6 Api, Ligger fortatt på Github ikke Se for mye på det :)",
       "url": "https://raw.githubusercontent.com/ImreBG/filhosting/refs/heads/main/test.yaml"
     },
     {
       "name": "WiFi Panel ovn Api, Ligger Også på Github ikke Se for mye på det :)",
       "url": "https://raw.githubusercontent.com/ImreBG/filhosting/refs/heads/main/API_Panel%20(1).yaml"
+    },
+    {
+      "name": "Petstore API",
+      "url": "https://petstore.swagger.io/v2/swagger.yaml"
     }
   ]
 } 
